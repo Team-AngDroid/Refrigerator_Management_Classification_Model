@@ -1,0 +1,1 @@
+# Refrigerator_Management_Classification_Model
